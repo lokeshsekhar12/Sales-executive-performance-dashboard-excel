@@ -46,24 +46,24 @@ The objective of this dashboard is to:
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-This Excel workbook contains multiple interactive dashboards. Please refer to the Excel file for the complete set of dashboards.
+The Excel workbook contains multiple interactive dashboards. Please refer to the Excel file for the complete set of dashboards.
 
 ### Dashboard 1
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](D1.png)
 
 ### Dashboard 2
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](D2.png)
 
 ### Dashboard 3
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](D3.png)
 
-### Dashboard 2
-![Dashboard 4](images/dashboard4.png)
+### Dashboard 4
+![Dashboard 4](D4.png)
 
 ### Dashboard 5
-![Dashboard 5](images/dashboard5.png)
+![Dashboard 5](D5.png)
 
 ---
 
