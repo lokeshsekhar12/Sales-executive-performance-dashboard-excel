@@ -53,18 +53,6 @@ The Excel workbook contains multiple interactive dashboards. Please refer to the
 ### Dashboard 1
 ![Dashboard 1](D1.png)
 
-### Dashboard 2
-![Dashboard 2](D2.png)
-
-### Dashboard 3
-![Dashboard 3](D3.png)
-
-### Dashboard 4
-![Dashboard 4](D4.png)
-
-### Dashboard 5
-![Dashboard 5](D5.png)
-
 ---
 
 ## 📂 Repository Structure
