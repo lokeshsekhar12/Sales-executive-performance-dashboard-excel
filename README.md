@@ -52,6 +52,11 @@ The Excel workbook contains multiple interactive dashboards. Please refer to the
 
 ### Dashboard 1
 ![Dashboard 1](D1.png.png)
+![Dashboard 1](D2.png.png)
+![Dashboard 1](D3.png.png)
+![Dashboard 1](D4.png.png)
+![Dashboard 1](D5.png.png)
+![Dashboard 1](D6.png.png)
 
 ---
 
