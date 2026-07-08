@@ -51,7 +51,7 @@ The objective of this dashboard is to:
 The Excel workbook contains multiple interactive dashboards. Please refer to the Excel file for the complete set of dashboards.
 
 ### Dashboard 1
-![Dashboard 1](D1.png)
+![Dashboard 1](D1.png.png)
 
 ---
 
